@@ -1,0 +1,16 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+SENSOR_MID_LEFT KEYWORD2
+SENSOR_MID_RIGHT KEYWORD2
+SENSOR_ALL KEYWORD2
+SENSOR_NONE KEYWORD2
